@@ -3,12 +3,23 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-30T14:43:46.028145012+02:00"
+    created: "2021-03-30T15:02:04.923777465+02:00"
     description: A Helm chart for Kubernetes
-    digest: 6f645ee78ed111a5e275d069b1a6afc94ddf1b2c6e941db0e95a1e0ff2fa2504
+    digest: a8b3ee72a40329be5f3d0a4c843968ec63fb5f473ec183ffc8ab7688051e9e3b
     name: helm-chart-test
     type: application
     urls:
     - https://OoioO.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-30T14:43:46.027389467+02:00"
+  helmchart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-30T15:02:04.924511583+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 59bc77af65e14cdc188a1d4a1602aca58874639db3b2424b447b0e639e9ac2e5
+    name: helmchart2
+    type: application
+    urls:
+    - https://OoioO.github.io/helm-chart/helmchart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-30T15:02:04.922968563+02:00"
