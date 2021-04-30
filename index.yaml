@@ -3,9 +3,9 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-30T15:29:09.820209151+02:00"
+    created: "2021-04-30T15:46:11.30670446+02:00"
     description: A Helm chart for Kubernetes
-    digest: d791e880484bfbfeb28a342d320b38cbf84403743e03fde7ae4f2f29c8228638
+    digest: 6179c7ebf40712cb926576746b696895c39eef99c133cc3d745c2d0c4bb543b8
     name: helm-chart-test
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   helmchart2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-30T15:29:09.820566286+02:00"
+    created: "2021-04-30T15:46:11.30711012+02:00"
     description: A Helm chart for Kubernetes
-    digest: 88531c2dd38e9f2c25c4a4e3606f9374ced562d429ff78569f8786383e5e72e5
+    digest: 35b0add768cc4c35edfac878bdc3d5340b1bdbca46bea95e605bf6f6aad7e5e8
     name: helmchart2
     type: application
     urls:
@@ -25,12 +25,13 @@ entries:
   nginxtest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-30T15:29:09.820925962+02:00"
+    created: "2021-04-30T15:46:11.307516639+02:00"
     description: A Helm chart for Kubernetes
-    digest: 6ccc3b4e91cd909a40f12bf4d1b1bb31236b117d3ad6d1e81279732e001d0536
+    digest: 775eb67d97b57d64f6586d20502886fca8354a3e9d26de7762711114d47181ea
+    icon: https://avatars0.githubusercontent.com/u/29493517?s=400&v=4
     name: nginxtest
     type: application
     urls:
     - https://github.co/OoioO/helm-chart/nginxtest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-30T15:29:09.819670826+02:00"
+generated: "2021-04-30T15:46:11.306199213+02:00"
