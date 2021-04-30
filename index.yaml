@@ -3,23 +3,34 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-30T15:02:04.923777465+02:00"
+    created: "2021-04-30T15:29:09.820209151+02:00"
     description: A Helm chart for Kubernetes
-    digest: a8b3ee72a40329be5f3d0a4c843968ec63fb5f473ec183ffc8ab7688051e9e3b
+    digest: d791e880484bfbfeb28a342d320b38cbf84403743e03fde7ae4f2f29c8228638
     name: helm-chart-test
     type: application
     urls:
-    - https://OoioO.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://github.co/OoioO/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
   helmchart2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-30T15:02:04.924511583+02:00"
+    created: "2021-04-30T15:29:09.820566286+02:00"
     description: A Helm chart for Kubernetes
-    digest: 59bc77af65e14cdc188a1d4a1602aca58874639db3b2424b447b0e639e9ac2e5
+    digest: 88531c2dd38e9f2c25c4a4e3606f9374ced562d429ff78569f8786383e5e72e5
     name: helmchart2
     type: application
     urls:
-    - https://OoioO.github.io/helm-chart/helmchart2-0.1.0.tgz
+    - https://github.co/OoioO/helm-chart/helmchart2-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-30T15:02:04.922968563+02:00"
+  nginxtest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-30T15:29:09.820925962+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6ccc3b4e91cd909a40f12bf4d1b1bb31236b117d3ad6d1e81279732e001d0536
+    name: nginxtest
+    type: application
+    urls:
+    - https://github.co/OoioO/helm-chart/nginxtest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-30T15:29:09.819670826+02:00"
